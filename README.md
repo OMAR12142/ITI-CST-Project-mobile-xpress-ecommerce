@@ -6,257 +6,138 @@
 
 ## ✨ الميزات الرئيسية
 
-### 🛍️ **للمتسوقين**
+1. Introduction
 
-- تصفح شامل للمنتجات مع فلترة متقدمة
-- نظام تسجيل دخول آمن
-- سلة مشتريات تفاعلية
-- نظام دفع متكامل
-- تتبع الطلبات
-- خدمة عملاء مباشرة
+The CST-ITI-G4 Project is a multi-actor e-commerce web application designed to simulate a real online store specializing in smart devices.
+It provides three main user roles:
+•	Customer (Shopper): Browse products, add to cart, place orders, manage profile.
+•	Seller: Manage their own inventory (add, edit, delete products) and track statistics via dynamic charts.
+•	Admin: Full control over system data (users, products, orders).
 
-### 🏪 **للبائعين**
+The application is built using:
+•	Vanilla HTML5, CSS3, and JavaScript (ES6+).
+•	Bootstrap 5 for responsive layouts.
+•	Chart.js for visual analytics.
+•	CryptoJS for password encryption.
+•	LocalStorage to persist user, product, and order data.
 
-- لوحة تحكم شاملة مع إحصائيات حية
-- إدارة المنتجات والطلبات
-- رسم بياني متطور للمبيعات
-- نظام موافقة على المنتجات
-- تقارير مفصلة
 
-### 👨‍💼 **للمدراء**
 
-- لوحة تحكم إدارية متقدمة
-- إدارة المستخدمين والمنتجات
-- مراقبة المبيعات والإيرادات
-- نظام صلاحيات متكامل
 
-## 🛠️ التقنيات المستخدمة
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **UI Framework**: Bootstrap 5
-- **Charts**: Chart.js
-- **Encryption**: CryptoJS
-- **Storage**: LocalStorage
-- **Icons**: Font Awesome
 
-## 📁 هيكل المشروع
-
-```
+📌2. Project File Structure
 CST-ITI-G4/
-├── 📁 assets/                 # الملفات الثابتة
-│   ├── 📁 home_page_img/      # صور الصفحة الرئيسية
-│   ├── 📁 img/               # الصور العامة
-│   └── 📁 lib/               # المكتبات الخارجية
-├── 📁 data/                  # ملفات البيانات
-├── 📁 docs/                  # الوثائق
-├── 📁 pages/                 # صفحات التطبيق
-│   ├── 📁 aboutus/           # صفحة من نحن
-│   ├── 📁 cart/              # سلة المشتريات
-│   ├── 📁 login/             # تسجيل الدخول
-│   ├── 📁 products/          # صفحات المنتجات
-│   ├── 📁 profile/           # الملف الشخصي
-│   ├── 📁 sellerdashboard/   # لوحة تحكم البائع
-│   └── 📁 signup/            # التسجيل
-├── 📁 src/                   # ملفات المصدر
-│   ├── 📁 css/               # ملفات التنسيق
-│   └── 📁 js/                # ملفات JavaScript
-└── 📄 index.html             # الصفحة الرئيسية
-```
-
-## 🚀 البدء السريع
-
-### المتطلبات الأساسية
-
-- متصفح ويب حديث (Chrome, Firefox, Safari, Edge)
-- JavaScript مفعل
-- اتصال بالإنترنت (لتحميل المكتبات)
-
-### التثبيت والتشغيل
-
-1. **استنساخ المشروع**
-
-   ```bash
-   git clone [repository-url]
-   cd CST-ITI-G4
-   ```
-
-2. **فتح المشروع**
-
-   - افتح ملف `index.html` في المتصفح
-   - أو استخدم خادم محلي:
-
-   ```bash
-   # باستخدام Python
-   python -m http.server 8000
-
-   # باستخدام Node.js
-   npx serve .
-   ```
-
-3. **الوصول للتطبيق**
-   - افتح المتصفح واذهب إلى `http://localhost:8000`
-
-## 👥 أنواع المستخدمين
-
-### 🛒 **المتسوق (Customer)**
-
-- تصفح المنتجات
-- إضافة المنتجات للسلة
-- إتمام عملية الشراء
-- تتبع الطلبات
-
-### 🏪 **البائع (Seller)**
-
-- إدارة المنتجات
-- مراقبة المبيعات
-- عرض التقارير
-- إدارة الطلبات
-
-### 👨‍💼 **المدير (Admin)**
-
-- إدارة جميع المستخدمين
-- مراقبة النظام
-- إدارة المنتجات
-- عرض التقارير الشاملة
-
-## 📊 لوحة تحكم البائع
-
-### الميزات المتقدمة
-
-- **📈 رسم بياني تفاعلي** يعرض المبيعات والإيرادات
-- **📊 إحصائيات حية** تتحدث تلقائياً
-- **🔄 تحديث تلقائي** كل 30 ثانية
-- **📱 واجهة متجاوبة** تعمل على جميع الأجهزة
-
-### البيانات المعروضة
-
-- إجمالي الإيرادات
-- عدد المنتجات
-- عدد الطلبات
-- الوحدات المباعة
-- أفضل المنتجات مبيعاً
-- الطلبات الحديثة
-
-## 🔐 الأمان
-
-### نظام التشفير
-
-- تشفير كلمات المرور باستخدام CryptoJS
-- حماية بيانات المستخدمين
-- التحقق من الصلاحيات
-
-### إدارة الجلسات
-
-- التحقق من تسجيل الدخول
-- إعادة التوجيه التلقائي
-- حماية الصفحات المحمية
-
-## 📱 التصميم المتجاوب
-
-- **Desktop**: عرض كامل مع جميع الميزات
-- **Tablet**: تخطيط محسن للشاشات المتوسطة
-- **Mobile**: واجهة مخصصة للهواتف
-
-## 🎨 واجهة المستخدم
-
-### التصميم
-
-- تصميم عصري وجذاب
-- ألوان متناسقة
-- أيقونات واضحة
-- تجربة مستخدم سلسة
-
-### التفاعل
-
-- تأثيرات بصرية متقدمة
-- انتقالات سلسة
-- استجابة فورية
-- رسائل واضحة
-
-## 📈 الأداء
-
-### التحسينات
-
-- تحميل سريع للصفحات
-- ضغط الصور
-- كود محسن
-- إدارة ذاكرة فعالة
-
-### المراقبة
-
-- تتبع الأخطاء
-- قياس الأداء
-- تحسين مستمر
-
-## 🐛 استكشاف الأخطاء
-
-### مشاكل شائعة وحلولها
-
-#### 1. **الصفحة لا تتحمل**
-
-```
-الحل: تحقق من اتصال الإنترنت وتحميل المكتبات
-```
-
-#### 2. **تسجيل الدخول لا يعمل**
-
-```
-الحل: تحقق من صحة البيانات ووجود المستخدم
-```
-
-#### 3. **الرسم البياني لا يظهر**
-
-```
-الحل: تحقق من تحميل Chart.js ووجود البيانات
-```
-
-#### 4. **المنتجات لا تظهر**
-
-```
-الحل: تحقق من ملف البيانات واتصال localStorage
-```
-
-## 🔧 التخصيص
-
-### إضافة منتجات جديدة
-
-1. أضف بيانات المنتج في `data/products.json`
-2. أضف الصور في `assets/img/products/`
-3. المنتج سيظهر تلقائياً في المتجر
-
-### تخصيص التصميم
-
-- عدل ملفات CSS في `src/css/`
-- أضف الألوان والخطوط المفضلة
-- عدل التخطيط حسب الحاجة
-
-
-### الوثائق
-
-- دليل المستخدم في `docs/`
-- أمثلة الكود في الملفات
-- تعليقات مفصلة في الكود
-
-## 🤝 المساهمة
-
-نرحب بمساهماتكم! للمساهمة:
-
-1. Fork المشروع
-2. أنشئ فرع للميزة الجديدة
-3. أضف التغييرات
-4. أرسل Pull Request
-
-### معايير الكود
-
-- اتبع معايير JavaScript
-- أضف تعليقات واضحة
-- اختبر التغييرات
-- وثق الميزات الجديدة
-
-## 📄 الترخيص
-
-هذا المشروع مرخص تحت رخصة MIT. راجع ملف `LICENSE` للتفاصيل.
-
+├── assets/               (Static assets)
+│   ├── home_page_img/    (Images for the homepage)
+│   ├── img/              (General images)
+│   └── lib/              (External libraries like Bootstrap, Chart.js, CryptoJS)
+│
+├── data/                 (Seed data files, e.g., products.json)
+│
+├── docs/                 (Documentation folder, e.g., guides, extended docs)
+│
+├── pages/                (All application pages)
+│   ├── aboutus/          (About Us page)
+│   ├── cart/             (Shopping Cart page)
+│   ├── login/            (Sign-in / Login page)
+│   ├── products/         (Pages for products display/listing)
+│   ├── profile/          (User Profile page)
+│   ├── sellerdashboard/  (Seller’s Dashboard page)
+│   └── signup/           (Registration / Sign-up page)
+│
+├── src/                  (Source code files)
+│   ├── css/              (Main CSS files for styling)
+│   └── js/               (Main JavaScript files for logic)
+│
+├── index.html            (Homepage)
+├── .gitignore            (Files and folders excluded from version control)
+├── package.json          (Node.js project metadata)
+├── test_cart.html        (Test page for cart functionality)
+3. Key JavaScript Modules
+Auth (signin.js & signup.js)
+•	signup.js
+o	Validates email uniqueness.
+o	Encrypts password using CryptoJS before saving.
+o	Stores new user in localStorage.
+•	signin.js
+o	Verifies credentials against localStorage.
+o	If successful → saves user in sessionStorage.
+o	Special backdoor login for admin.
+Products (products.js & product-details.js)
+•	products.js	
+o	Loads all products from localStorage.
+o	Supports search, filter by category, sort (price, name).
+o	Populates category dropdown dynamically.
+•	product-details.js
+o	Reads id from URL query string.
+o	Displays product details (title, description, price, stock).
+o	Related products shown from the same category.
+o	"Add to Cart" button disabled if user not logged in.
+Cart (cart.js)
+•	Stores items per user in localStorage.
+•	Updates cart badge dynamically.
+•	Handles increase/decrease quantity, remove item, and total calculation.
+Profile (profile.js)
+•	Loads current user data from sessionStorage.
+•	Allows updating user details (name, password).
+•	Synchronizes changes to both localStorage and sessionStorage.
+Seller Dashboard (seller.js)
+•	Features:
+o	Add new products (with unique ID).
+o	Edit/Delete products.
+o	Statistics cards: total products, revenue, low stock, out of stock.
+o	Uses Chart.js to show revenue trends.
+Admin Dashboard (admin.js)
+•	Full access to users, products, orders.
+•	Features:
+o	Manage products (edit, delete, mark as featured).
+o	Manage users (view details, delete user).
+o	Track orders (update status, delete order).
+o	Dashboard cards: total users, products, revenue, active sellers.
+o	Change detection (increase/decrease stats with icons).
+5. Responsive Design
+•	Uses Bootstrap 5 grid system.
+•	Navbar collapses into hamburger menu on small screens.
+•	Seller/Admin dashboards adapt charts and tables for tablets & mobiles.
+6. Security & Session Handling
+•	Passwords encrypted with CryptoJS before saving.
+•	Session management with sessionStorage: prevents unauthorized access.
+•	Role-based redirection:
+o	Customer → profile, cart
+o	Seller → seller dashboard
+o	Admin → admin dashboard
+7. Contribution & Team
+•	Built collaboratively by CST ITI G4 Team.
+•	Licensed under MIT License.
+•	Contributions:
+o	Clone repo → git clone 
+o	Work on feature branch → PR
+
+4. User Roles & Features
+Customer
+•	Browse/search products.
+•	Add products to cart.
+•	Checkout & manage orders.
+•	Update personal profile.
+Seller
+•	Add/Edit/Delete products.
+•	Track product sales, revenue.
+•	Monitor low/out-of-stock products.
+•	View interactive revenue charts.
+Admin
+•	Full system overview.
+•	Manage all users, products, and orders.
+•	Dynamic dashboard KPIs: revenue, users, active sellers.
+•	Detect changes in statistics vs previous state.
+3. Users & Roles
+The system includes predefined users with specific roles for testing and demonstration purposes:
+Email	Role	Password	Description
+admin@gmail.com	Admin	123	Has full access to manage products, users, and orders
+abdo@gmail.com	Customer	123	Regular customer, can browse products and place orders
+ali@gmail.com	Seller	123	Regular customer, can browse products and place orders
+saeed@gmail.com	Seller	123	Regular customer, can browse products and place orders
+omar@gmail.com	Seller	123	Can add, edit, and manage products from the seller dashboard
 ## 👥 فريق العمل
 
 ### المطورون المشاركون
