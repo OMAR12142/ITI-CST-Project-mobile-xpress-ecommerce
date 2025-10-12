@@ -1,0 +1,2586 @@
+[
+  {
+    "color": "white",
+    "os": "ios",
+    "brand": "iphone",
+    "old_price": 40000,
+    "price": 30000,
+    "id": 500,
+    "slug": "5020",
+    "name": "iPhone 13 Pro Max",
+    "description": "iPhone 13 Pro Max with A15 Bionic chip, 6.7-inch Super Retina XDR display, 6GB RAM, 128GB storage, and triple-camera system.",
+    "originalPrice": 1099,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 15,
+    "images": [
+      "../../assets/img/products/iphone13promax/front.png",
+      "../../assets/img/products/iphone13promax/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin002",
+      "reviewedAt": "2025-01-20T10:30:00Z",
+      "notes": "Classic flagship with excellent performance.",
+      "approvalDate": "2025-01-20T10:30:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_011",
+        "userId": "user222",
+        "username": "AppleLoyalist",
+        "rating": 5,
+        "comment": "The battery life is incredible! Easily lasts all day with heavy use. Camera quality is outstanding.",
+        "createdAt": "2025-01-21T11:15:00Z",
+        "helpful": 18,
+        "verified": true
+      },
+      {
+        "id": "comment_012",
+        "userId": "user333",
+        "username": "MobilePhotographer",
+        "rating": 4,
+        "comment": "ProMotion display is smooth and cameras are excellent, though a bit heavy for long-term use.",
+        "createdAt": "2025-01-22T09:30:00Z",
+        "helpful": 12,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A15 Bionic",
+      "Display": "6.7-inch Super Retina XDR, 120Hz",
+      "RAM": "12GB",
+      "Storage": "128GB",
+      "Battery": "4352 mAh",
+      "Camera": "12MP (Main) + 12MP (Telephoto) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T10:00:00Z",
+    "updatedAt": "2025-08-18T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "iPhone 15 Pro Max",
+    "slug": "50320",
+    "old_price": 50000,
+    "color": "white",
+    "os": "ios",
+    "brand": "iphone",
+    "description": "iPhone 15 Pro Max with A17 Pro chip, 6.7-inch ProMotion display, titanium design, 5x optical zoom, and USB-C port.",
+    "price": 40000,
+    "originalPrice": 1299,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 10,
+    "images": [
+      "../../assets/img/products/iphone15promax/front.png",
+      "../../assets/img/products/iphone15promax/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-01-25T09:15:00Z",
+      "notes": "First iPhone with USB-C and titanium build.",
+      "approvalDate": "2025-01-25T09:15:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_014",
+        "userId": "user555",
+        "username": "EarlyAdopter",
+        "rating": 5,
+        "comment": "The titanium build feels premium and lightweight. USB-C is finally here! The 5x zoom is impressive for a smartphone.",
+        "createdAt": "2025-01-26T16:30:00Z",
+        "helpful": 30,
+        "verified": true
+      },
+      {
+        "id": "comment_015",
+        "userId": "user666",
+        "username": "PhotographyPro",
+        "rating": 4,
+        "comment": "Camera system is phenomenal, especially the periscope zoom. Battery life could be slightly better though.",
+        "createdAt": "2025-01-27T10:20:00Z",
+        "helpful": 15,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A17 Pro (3nm)",
+      "Display": "6.7-inch Super Retina XDR, 120Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "4422 mAh",
+      "Camera": "48MP (Main) + 12MP (Telephoto) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T10:30:00Z",
+    "updatedAt": "2025-08-18T10:30:00Z"
+  },
+  {
+    "id": 8,
+    "slug": "50120",
+    "old_price": 60000,
+    "color": "black",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 16 Pro Max",
+    "description": "iPhone 16 Pro Max with A18 Pro chip, 6.9-inch ProMotion display, enhanced thermal design, improved battery life, and advanced camera system.",
+    "price": 50000,
+    "originalPrice": 1399,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 8,
+    "images": [
+      "../../assets/img/products/iphone16promax/front.png",
+      "../../assets/img/products/iphone16promax/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-01-28T14:00:00Z",
+      "notes": "Largest iPhone display yet with significant performance improvements.",
+      "approvalDate": "2025-01-28T14:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_016",
+        "userId": "user777",
+        "username": "FutureTech",
+        "rating": 5,
+        "comment": "The larger screen is perfect for media consumption and the new thermal design keeps it cool during intensive tasks. Best iPhone yet!",
+        "createdAt": "2025-01-29T18:45:00Z",
+        "helpful": 28,
+        "verified": true
+      },
+      {
+        "id": "comment_017",
+        "userId": "user888",
+        "username": "PowerUser",
+        "rating": 5,
+        "comment": "A18 Pro chip is a beast - handles everything effortlessly. Battery life has noticeably improved from previous models.",
+        "createdAt": "2025-01-30T12:10:00Z",
+        "helpful": 20,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A18 Pro (2nm)",
+      "Display": "6.9-inch Super Retina XDR, 120Hz",
+      "RAM": "16GB",
+      "Storage": "256GB",
+      "Battery": "4670 mAh",
+      "Camera": "48MP (Main) + 12MP (Telephoto) + 12MP (Ultra-wide) + LiDAR"
+    },
+    "createdAt": "2025-08-18T10:45:00Z",
+    "updatedAt": "2025-08-18T10:45:00Z"
+  },
+  {
+    "id": 9,
+    "slug": "501320",
+    "old_price": 30000,
+    "color": "black",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 13",
+    "description": "iPhone 13 with A15 Bionic chip, 6.1-inch Super Retina XDR display, 4GB RAM, 128GB storage, and advanced dual-camera system.",
+    "price": 25000,
+    "originalPrice": 799,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 18,
+    "images": [
+      "../../assets/img/products/iphone13/front.png",
+      "../../assets/img/products/iphone13/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.5,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin002",
+      "reviewedAt": "2025-01-20T11:30:00Z",
+      "notes": "Best value in the iPhone 13 series.",
+      "approvalDate": "2025-01-20T11:30:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_018",
+        "userId": "user999",
+        "username": "ValueShopper",
+        "rating": 4,
+        "comment": "Great battery life and camera for the price. Misses out on ProMotion though.",
+        "createdAt": "2025-01-21T13:20:00Z",
+        "helpful": 10,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A15 Bionic",
+      "Display": "6.1-inch Super Retina XDR",
+      "RAM": "4GB",
+      "Storage": "128GB",
+      "Battery": "3240 mAh",
+      "Camera": "12MP (Main) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T11:00:00Z",
+    "updatedAt": "2025-08-18T11:00:00Z"
+  },
+  {
+    "id": 10,
+    "slug": "502410",
+    "old_price": 35000,
+    "color": "white",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 13 Pro",
+    "description": "iPhone 13 Pro with A15 Bionic chip, 6.1-inch ProMotion display, 6GB RAM, 128GB storage, and professional triple-camera system.",
+    "price": 30000,
+    "originalPrice": 999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 14,
+    "images": [
+      "../../assets/img/products/iphone13pro/front.png",
+      "../../assets/img/products/iphone13pro/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin002",
+      "reviewedAt": "2025-01-20T12:00:00Z",
+      "notes": "Pro features in a more compact size.",
+      "approvalDate": "2025-01-20T12:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_019",
+        "userId": "user1010",
+        "username": "ProPhotographer",
+        "rating": 5,
+        "comment": "Perfect size with all the Pro features. Macro photography is amazing!",
+        "createdAt": "2025-01-22T10:15:00Z",
+        "helpful": 12,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A15 Bionic",
+      "Display": "6.1-inch Super Retina XDR, 120Hz",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "3095 mAh",
+      "Camera": "12MP (Main) + 12MP (Telephoto) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T11:15:00Z",
+    "updatedAt": "2025-08-18T11:15:00Z"
+  },
+  {
+    "id": 11,
+    "slug": "215020",
+    "old_price": 40000,
+    "color": "white",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 14",
+    "description": "iPhone 14 with A15 Bionic chip, 6.1-inch Super Retina XDR display, 6GB RAM, 128GB storage, and improved camera system with Photonic Engine.",
+    "price": 38000,
+    "originalPrice": 799,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 16,
+    "images": [
+      "../../assets/img/products/iphone14/front.png",
+      "../../assets/img/products/iphone14/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.6,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-01-22T13:00:00Z",
+      "notes": "Improved base model with better cameras.",
+      "approvalDate": "2025-01-22T13:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_020",
+        "userId": "user1111",
+        "username": "EverydayUser",
+        "rating": 4,
+        "comment": "Great all-rounder. The Photonic Engine really improves low-light photos.",
+        "createdAt": "2025-01-23T15:30:00Z",
+        "helpful": 8,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A15 Bionic",
+      "Display": "6.1-inch Super Retina XDR",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "3279 mAh",
+      "Camera": "12MP (Main) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T11:30:00Z",
+    "updatedAt": "2025-08-18T11:30:00Z"
+  },
+  {
+    "id": 12,
+    "slug": "50209",
+    "color": "black",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 14 Pro",
+    "description": "iPhone 14 Pro with A16 Bionic chip, 6.1-inch Always-On display, Dynamic Island, 48MP main camera, and ProMotion technology.",
+    "old_price": 42000,
+    "price": 39000,
+    "originalPrice": 999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 11,
+    "images": [
+      "../../assets/img/products/iphone14pro/front.png",
+      "../../assets/img/products/iphone14pro/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.8,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-01-22T14:00:00Z",
+      "notes": "First iPhone with Dynamic Island.",
+      "approvalDate": "2025-01-22T14:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_021",
+        "userId": "user1212",
+        "username": "TechExplorer",
+        "rating": 5,
+        "comment": "Dynamic Island is more useful than I expected! The 48MP camera is a game-changer for photography.",
+        "createdAt": "2025-01-24T16:45:00Z",
+        "helpful": 20,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A16 Bionic",
+      "Display": "6.1-inch Super Retina XDR, Always-On, 120Hz",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "3200 mAh",
+      "Camera": "48MP (Main) + 12MP (Telephoto) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T11:45:00Z",
+    "updatedAt": "2025-08-18T11:45:00Z"
+  },
+  {
+    "color": "white",
+    "os": "ios",
+    "brand": "iphone",
+    "id": 13,
+    "slug": "505520",
+    "name": "iPhone 15",
+    "description": "iPhone 15 with A16 Bionic chip, 6.1-inch Super Retina XDR display, USB-C port, 6GB RAM, and improved 48MP main camera.",
+    "old_price": 45000,
+    "price": 35000,
+    "originalPrice": 799,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 14,
+    "images": [
+      "../../assets/img/products/iphone15/front.png",
+      "../../assets/img/products/iphone15/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-01-25T10:00:00Z",
+      "notes": "First standard iPhone with USB-C and 48MP camera.",
+      "approvalDate": "2025-01-25T10:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_022",
+        "userId": "user1313",
+        "username": "ModernUser",
+        "rating": 4,
+        "comment": "USB-C is so convenient! Camera upgrade is noticeable compared to previous standard models.",
+        "createdAt": "2025-01-26T17:50:00Z",
+        "helpful": 15,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A16 Bionic",
+      "Display": "6.1-inch Super Retina XDR",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "3349 mAh",
+      "Camera": "48MP (Main) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T12:00:00Z",
+    "updatedAt": "2025-08-18T12:00:00Z"
+  },
+  {
+    "id": 14,
+    "slug": "50122220",
+    "color": "red",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 15 Pro",
+    "description": "iPhone 15 Pro with A17 Pro chip, 6.1-inch ProMotion display, titanium design, USB-C, 6GB RAM, and advanced camera system.",
+    "price": 1099,
+    "originalPrice": 55000,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 9,
+    "images": [
+      "../../assets/img/products/iphone15pro/front.png",
+      "../../assets/img/products/iphone15pro/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-01-25T11:00:00Z",
+      "notes": "Titanium build makes it lighter than previous Pro models.",
+      "approvalDate": "2025-01-25T11:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_023",
+        "userId": "user1414",
+        "username": "ProUser",
+        "rating": 5,
+        "comment": "The titanium feels amazing and makes the phone noticeably lighter. USB-C with faster transfers is great for my workflow.",
+        "createdAt": "2025-01-27T19:00:00Z",
+        "helpful": 18,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A17 Pro (3nm)",
+      "Display": "6.1-inch Super Retina XDR, 120Hz",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "3274 mAh",
+      "Camera": "48MP (Main) + 12MP (Telephoto) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T12:15:00Z",
+    "updatedAt": "2025-08-18T12:15:00Z"
+  },
+  {
+    "id": 15,
+    "slug": "50311420",
+    "color": "red",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 16",
+    "description": "iPhone 16 with A17 Pro chip, 6.1-inch Super Retina XDR display, USB-C, 6GB RAM, improved battery life, and enhanced camera system.",
+    "old_price": "1200",
+    "price": 58000,
+    "originalPrice": 799,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 12,
+    "images": [
+      "../../assets/img/products/iphone16/front.png",
+      "../../assets/img/products/iphone16/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-01-28T12:00:00Z",
+      "notes": "Now with the same chip as previous Pro models.",
+      "approvalDate": "2025-01-28T12:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_024",
+        "userId": "user1515",
+        "username": "BatteryLover",
+        "rating": 4,
+        "comment": "The battery life improvement is real! Lasts a full day with heavy use.",
+        "createdAt": "2025-01-29T20:15:00Z",
+        "helpful": 14,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A17 Pro",
+      "Display": "6.1-inchs Super Retina XDR",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "3561 mAh",
+      "Camera": "48MP (Main) + 12MP (Ultra-wide)"
+    },
+    "createdAt": "2025-08-18T12:30:00Z",
+    "updatedAt": "2025-08-18T12:30:00Z"
+  },
+  {
+    "id": 16,
+    "slug": "50412420",
+    "color": "white",
+    "os": "ios",
+    "brand": "iphone",
+    "name": "iPhone 16 Pro",
+    "description": "iPhone 16 Pro with A18 Pro chip, 6.3-inch ProMotion display, titanium design, USB-C, 8GB RAM, and advanced camera system with spatial video capture.",
+    "price": 60000,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 7,
+    "images": [
+      "../../assets/img/products/iphone16pro/front.png",
+      "../../assets/img/products/iphone16pro/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-01-28T13:00:00Z",
+      "notes": "New larger 6.3-inch size for Pro model with spatial video capabilities.",
+      "approvalDate": "2025-01-28T13:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_025",
+        "userId": "user1616",
+        "username": "FutureTech",
+        "rating": 5,
+        "comment": "The spatial video recording is incredible for my Vision Pro! Perfect size upgrade from previous Pro models.",
+        "createdAt": "2025-01-30T21:30:00Z",
+        "helpful": 22,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "A18 Pro (2nm)",
+      "Display": "6.3-inch Super Retina XDR, 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "3650 mAh",
+      "Camera": "48MP (Main) + 12MP (Telephoto) + 12MP (Ultra-wide) + LiDAR"
+    },
+    "createdAt": "2025-08-18T12:45:00Z",
+    "updatedAt": "2025-08-18T12:45:00Z"
+  },
+  {
+    "id": 17,
+    "slug": "502011",
+    "color": "green",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO A55",
+    "description": "OPPO A55 with MediaTek Helio G35, 6.5-inch HD+ display, 4GB RAM, 64GB storage, and 5000mAh battery with 18W fast charging.",
+    "price": 8000,
+    "salePercentage": 11,
+    "category": "Smartphones",
+    "stock": 25,
+    "images": [
+      "../../assets/img/products/oppoa55/front.png",
+      "../../assets/img/products/oppoa55/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.2,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-02-01T10:00:00Z",
+      "notes": "Budget model with excellent battery life.",
+      "approvalDate": "2025-02-01T10:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_026",
+        "userId": "user1717",
+        "username": "BudgetBuyer",
+        "rating": 4,
+        "comment": "Amazing battery lasts 2 days! Perfect for my grandma who just needs basic features.",
+        "createdAt": "2025-02-02T11:20:00Z",
+        "helpful": 8,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Helio G35",
+      "Display": "6.5-inch HD+ (720x1600)",
+      "RAM": "4GB",
+      "Storage": "64GB",
+      "Battery": "5000mAh",
+      "Camera": "13MP (Main) + 2MP (Macro) + 2MP (Depth)"
+    },
+    "createdAt": "2025-08-18T13:00:00Z",
+    "updatedAt": "2025-08-18T13:00:00Z"
+  },
+  {
+    "id": 18,
+    "slug": "50311320",
+    "color": "green",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO A77",
+    "description": "OPPO A77 with Snapdragon 680, 6.56-inch HD+ 90Hz display, 6GB RAM, 128GB storage, and 5000mAh battery with 33W fast charging.",
+    "price": 7000,
+    "salePercentage": 13,
+    "category": "Smartphones",
+    "stock": 20,
+    "images": [
+      "../../assets/img/products/oppoa77/front.png",
+      "../../assets/img/products/oppoa77/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.3,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-02-01T11:00:00Z",
+      "notes": "Popular mid-range model with smooth display.",
+      "approvalDate": "2025-02-01T11:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_027",
+        "userId": "user1818",
+        "username": "SmoothScroller",
+        "rating": 4,
+        "comment": "The 90Hz display makes everything feel so smooth! Great upgrade from my old phone.",
+        "createdAt": "2025-02-03T14:30:00Z",
+        "helpful": 10,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 680",
+      "Display": "6.56-inch HD+ (720x1612), 90Hz",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP (Main) + 2MP (Depth)"
+    },
+    "createdAt": "2025-08-18T13:15:00Z",
+    "updatedAt": "2025-08-18T13:15:00Z"
+  },
+  {
+    "color": "green",
+    "os": "android",
+    "brand": "oppo",
+    "id": 19,
+    
+    "slug": "50333120",
+    "name": "OPPO A97",
+    "description": "OPPO A97 with Dimensity 810, 6.6-inch FHD+ 90Hz display, 12GB RAM, 256GB storage, and 5000mAh battery with 33W fast charging.",
+    "price": 8000,
+    "salePercentage": 7,
+    "category": "Smartphones",
+    "stock": 15,
+    "images": [
+      "../../assets/img/products/oppoa97/front.png",
+      "../../assets/img/products/oppoa97/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.5,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-02-02T10:00:00Z",
+      "notes": "Premium A-series with high RAM capacity.",
+      "approvalDate": "2025-02-02T10:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_028",
+        "userId": "user1919",
+        "username": "Multitasker",
+        "rating": 5,
+        "comment": "12GB RAM means I never have to close apps! Handles gaming and work simultaneously.",
+        "createdAt": "2025-02-04T16:45:00Z",
+        "helpful": 12,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Dimensity 810",
+      "Display": "6.6-inch FHD+ (1080x2408), 90Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh",
+      "Camera": "48MP (Main) + 2MP (Depth)"
+    },
+    "createdAt": "2025-08-18T13:30:00Z",
+    "updatedAt": "2025-08-18T13:30:00Z"
+  },
+  {
+    "id": 20,
+    "slug": "50212320",
+    "color": "green",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO Find X5",
+    "description": "OPPO Find X5 with Snapdragon 888, 6.55-inch AMOLED 120Hz display, MariSilicon X NPU, Hasselblad camera, and 80W fast charging.",
+    "price": 699,
+    "originalPrice": 22000,
+    "category": "Smartphones",
+    "stock": 8,
+    "images": [
+      "../../assets/img/products/oppofindx5/front.png",
+      "../../assets/img/products/oppofindx5/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-02-02T11:00:00Z",
+      "notes": "Flagship with professional camera system.",
+      "approvalDate": "2025-02-02T11:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_029",
+        "userId": "user2020",
+        "username": "PhotoPro",
+        "rating": 5,
+        "comment": "Hasselblad color calibration is incredible! Takes professional-level photos easily.",
+        "createdAt": "2025-02-05T18:00:00Z",
+        "helpful": 20,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 888",
+      "Display": "6.55-inch AMOLED, 120Hz",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Battery": "4800mAh",
+      "Camera": "50MP (Main) + 50MP (Ultra-wide) + 13MP (Telephoto)"
+    },
+    "createdAt": "2025-08-18T13:45:00Z",
+    "updatedAt": "2025-08-18T13:45:00Z"
+  },
+  {
+    "id": 21,
+    "slug": "5412020",
+    "color": "green",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO Find X6",
+    "description": "OPPO Find X6 Pro with Snapdragon 8 Gen 2, 6.82-inch LTPO AMOLED 120Hz, MariSilicon X2, Hasselblad camera, and 100W fast charging.",
+    "price": 24000,
+    "salePercentage": 9,
+    "category": "Smartphones",
+    "stock": 6,
+    "images": [
+      "../../assets/img/products/oppofindx6/front.png",
+      "../../assets/img/products/oppofindx6/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-02-03T10:00:00Z",
+      "notes": "Current flagship with cutting-edge camera tech.",
+      "approvalDate": "2025-02-03T10:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_030",
+        "userId": "user2121",
+        "username": "TechEnthusiast",
+        "rating": 5,
+        "comment": "The periscope zoom camera is unbelievable! Beats many DSLRs in good light.",
+        "createdAt": "2025-02-06T19:30:00Z",
+        "helpful": 25,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 2",
+      "Display": "6.82-inch LTPO AMOLED, 1-120Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP (Main) + 50MP (Ultra-wide) + 50MP (Periscope)"
+    },
+    "createdAt": "2025-08-18T14:00:00Z",
+    "updatedAt": "2025-08-18T14:00:00Z"
+  },
+  {
+    "id": 22,
+    "slug": "50122310",
+    "color": "red",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO Reno 4",
+    "description": "OPPO Reno 4 with Snapdragon 720G, 6.4-inch AMOLED display, 8GB RAM, 128GB storage, and 65W SuperVOOC charging.",
+    "price": 9000,
+    "salePercentage": 13,
+    "category": "Smartphones",
+    "stock": 10,
+    "images": [
+      "../../assets/img/products/opporeno4/front.png",
+      "../../assets/img/products/opporeno4/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.4,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-02-01T12:00:00Z",
+      "notes": "Previous generation Reno with fast charging.",
+      "approvalDate": "2025-02-01T12:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_031",
+        "userId": "user2222",
+        "username": "FlashCharger",
+        "rating": 4,
+        "comment": "65W charging is insane - 0 to 100% in 35 minutes! Camera could be better though.",
+        "createdAt": "2025-02-07T12:45:00Z",
+        "helpful": 15,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 720G",
+      "Display": "6.4-inch AMOLED",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "4015mAh",
+      "Camera": "48MP (Main) + 8MP (Ultra-wide) + 2MP (Macro)"
+    },
+    "createdAt": "2025-08-18T14:15:00Z",
+    "updatedAt": "2025-08-18T14:15:00Z"
+  },
+  {
+    "id": 23,
+    "slug": "50121220",
+    "color": "green",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO Reno 5",
+    "description": "OPPO Reno 5 with Snapdragon 765G, 6.43-inch AMOLED 90Hz display, AI Portrait Video, 8GB RAM, and 65W SuperVOOC charging.",
+    "price": 10000,
+    "salePercentage": 11,
+    "category": "Smartphones",
+    "stock": 12,
+    "images": [
+      "../../assets/img/products/opporeno5/front.png",
+      "../../assets/img/products/opporeno5/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.5,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-02-02T12:00:00Z",
+      "notes": "Improved video capabilities over Reno 4.",
+      "approvalDate": "2025-02-02T12:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_032",
+        "userId": "user2323",
+        "username": "ContentCreator",
+        "rating": 5,
+        "comment": "AI Portrait Video makes my vlogs look professional! The 90Hz display is smooth too.",
+        "createdAt": "2025-02-08T14:00:00Z",
+        "helpful": 18,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 765G",
+      "Display": "6.43-inch AMOLED, 90Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "4300mAh",
+      "Camera": "64MP (Main) + 8MP (Ultra-wide) + 2MP (Macro) + 2MP (Depth)"
+    },
+    "createdAt": "2025-08-18T14:30:00Z",
+    "updatedAt": "2025-08-18T14:30:00Z"
+  },
+  {
+    "id": 24,
+    "slug": "5012312320",
+    "color": "white",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO Reno 12",
+    "description": "OPPO Reno 12 with Dimensity 7050, 6.7-inch FHD+ 120Hz AMOLED, 12GB RAM, 256GB storage, and 80W SuperVOOC charging.",
+    "price": 13000,
+    "salePercentage": 9,
+    "category": "Smartphones",
+    "stock": 9,
+    "images": [
+      "../../assets/img/products/opporeno12/front.png",
+      "../../assets/img/products/opporeno12/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-02-03T11:00:00Z",
+      "notes": "Current mid-range champion with flagship features.",
+      "approvalDate": "2025-02-03T11:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_033",
+        "userId": "user2424",
+        "username": "PowerUser",
+        "rating": 5,
+        "comment": "Perfect balance of price and performance! The 120Hz AMOLED is gorgeous and 80W charging is a game-changer.",
+        "createdAt": "2025-02-09T16:30:00Z",
+        "helpful": 22,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Dimensity 7050",
+      "Display": "6.7-inch FHD+ AMOLED, 120Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP (Main) + 8MP (Ultra-wide) + 2MP (Macro)"
+    },
+    "createdAt": "2025-08-18T14:45:00Z",
+    "updatedAt": "2025-08-18T14:45:00Z"
+  },
+  {
+    "id": 25,
+    "slug": "52121020",
+    "color": "black",
+    "os": "android",
+    "brand": "oppo",
+    "name": "OPPO Reno 13",
+    "description": "OPPO Reno 13 with Snapdragon 7+ Gen 3, 6.74-inch FHD+ 120Hz AMOLED, MariSilicon X imaging chip, 16GB RAM, and 100W SuperVOOC charging.",
+    "price": 15000,
+    "salePercentage": 8,
+    "category": "Smartphones",
+    "stock": 7,
+    "images": [
+      "../../assets/img/products/opporeno13/front.png",
+      "../../assets/img/products/opporeno13/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.8,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-02-03T12:00:00Z",
+      "notes": "Latest Reno series with flagship-level features.",
+      "approvalDate": "2025-02-03T12:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_034",
+        "userId": "user2525",
+        "username": "FutureTech",
+        "rating": 5,
+        "comment": "The MariSilicon X chip makes low-light photography incredible! 100W charging means I never worry about battery.",
+        "createdAt": "2025-02-10T18:45:00Z",
+        "helpful": 25,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 7+ Gen 3",
+      "Display": "6.74-inch FHD+ AMOLED, 120Hz",
+      "RAM": "16GB",
+      "Storage": "512GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP (Main) + 50MP (Ultra-wide) + 32MP (Telephoto)"
+    },
+    "createdAt": "2025-08-18T15:00:00Z",
+    "updatedAt": "2025-08-18T15:00:00Z"
+  },
+  {
+    "id": 501,
+    "name": "Realme Realme 14 Pro",
+    "slug": "realme_realme14pro_501",
+    "color": "pearl",
+    "os": "android",
+    "brand": "realme",
+    "old_price": 23650,
+    "price": 21500,
+    "originalPrice": 21500,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 13,
+    "images": [
+      "../../assets/img/products/realme/realme14pro/front.png",
+      "../../assets/img/products/realme/realme14pro/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.6",
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.718Z",
+      "notes": "Realme Realme 14 Pro - 256 GB storage, 12 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.719Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_501_001",
+        "userId": "user_501_001",
+        "username": "RealmeUser501",
+        "rating": 5,
+        "comment": "Great Realme Realme 14 Pro! 256 GB storage is perfect for my needs. 12 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.719Z",
+        "helpful": 7,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Dimensity 7300 Energy, Octa-core",
+      "Display": "6.77″ OLED 120Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "6000 mAh",
+      "Camera": "50 MP + 2 MP",
+      "Front Camera": "16 MP",
+      "Network": "5G",
+      "Connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "OS": "Android 15",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "162.8×74.9×7.6 mm",
+      "Resolution": "1080x2392 FHD+",
+      "Port": "USB-C",
+      "Flash": "LED",
+      "Video Recording": "4K@30fps"
+    },
+    "description": "Realme Realme 14 Pro with MediaTek Dimensity 7300 Energy, Octa-core, 6.77″ OLED 120Hz display, 12 GB RAM, 256 GB storage, and 6000 mAh battery. Features include 5G connectivity, 50 MP + 2 MP main camera, and Wi-Fi, Bluetooth, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.719Z",
+    "updatedAt": "2025-08-30T16:18:34.719Z"
+  },
+  {
+    "id": 502,
+    "name": "Realme Note 60",
+    "slug": "realme_note60_502",
+    "color": "marble",
+    "os": "android",
+    "brand": "realme",
+    "old_price": 5719,
+    "price": 5199,
+    "originalPrice": 5199,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 19,
+    "images": [
+      "../../assets/img/products/realme/note60/front.png",
+      "../../assets/img/products/realme/note60/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.1",
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.719Z",
+      "notes": "Realme Note 60 - 128 GB storage, 4 GB (expandable to 6-8 GB) RAM",
+      "approvalDate": "2025-08-30T16:18:34.719Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_502_001",
+        "userId": "user_502_001",
+        "username": "RealmeUser502",
+        "rating": 4,
+        "comment": "Great Realme Note 60! 128 GB storage is perfect for my needs. 4 GB (expandable to 6-8 GB) RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.719Z",
+        "helpful": 5,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "UNISOC Tiger T612, Octa-core",
+      "Display": "6.74″ IPS LCD 90Hz",
+      "RAM": "4GB (expandable to 6-8 GB)",
+      "Storage": "128GB",
+      "Battery": "5000 mAh",
+      "Camera": "32 MP",
+      "Front Camera": "5 MP",
+      "Network": "4G",
+      "Connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "OS": "Android 14 (Realme UI 5.0)",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "167.3×76.7×7.8 mm",
+      "Resolution": "720x1600 HD+",
+      "Port": "USB-C",
+      "Flash": "LED",
+      "Video Recording": "1080p"
+    },
+    "description": "Realme Note 60 with UNISOC Tiger T612, Octa-core, 6.74″ IPS LCD 90Hz display, 4 GB (expandable to 6-8 GB) RAM, 128 GB storage, and 5000 mAh battery. Features include 4G connectivity, 32 MP main camera, and Wi-Fi, Bluetooth, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.719Z",
+    "updatedAt": "2025-08-30T16:18:34.719Z"
+  },
+  {
+    "id": 503,
+    "name": "Realme C61",
+    "slug": "realme_c61_503",
+    "color": "green",
+    "os": "android",
+    "brand": "realme",
+    "old_price": 6599,
+    "price": 5999,
+    "originalPrice": 5999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 17,
+    "images": [
+      "../../assets/img/products/realme/c61/front.png",
+      "../../assets/img/products/realme/c61/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.2",
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.720Z",
+      "notes": "Realme C61 - 128 GB storage, 4 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.720Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_503_001",
+        "userId": "user_503_001",
+        "username": "RealmeUser503",
+        "rating": 5,
+        "comment": "Great Realme C61! 128 GB storage is perfect for my needs. 4 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.720Z",
+        "helpful": 12,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Unisoc Tiger T612, Octa-core",
+      "Display": "6.74″ IPS LCD 90Hz",
+      "RAM": "4GB",
+      "Storage": "128GB",
+      "Battery": "5000 mAh",
+      "Camera": "50 MP",
+      "Front Camera": "5 MP",
+      "Network": "4G",
+      "Connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "OS": "Android 14",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "167.2×76.7×7.6 mm",
+      "Resolution": "720x1600 HD+",
+      "Port": "USB-C",
+      "Flash": "LED",
+      "Video Recording": "1080p"
+    },
+    "description": "Realme C61 with Unisoc Tiger T612, Octa-core, 6.74″ IPS LCD 90Hz display, 4 GB RAM, 128 GB storage, and 5000 mAh battery. Features include 4G connectivity, 50 MP main camera, and Wi-Fi, Bluetooth, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.720Z",
+    "updatedAt": "2025-08-30T16:18:34.720Z"
+  },
+  {
+    "id": 504,
+    "name": "Realme GT 6T",
+    "slug": "realme_gt6t_504",
+    "color": "fluid",
+    "os": "android",
+    "brand": "realme",
+    "old_price": 20899,
+    "price": 18999,
+    "originalPrice": 18999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 16,
+    "images": [
+      "../../assets/img/products/realme/gt6t/front.png",
+      "../../assets/img/products/realme/gt6t/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.1",
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.720Z",
+      "notes": "Realme GT 6T - 256 GB storage, 12 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.720Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_504_001",
+        "userId": "user_504_001",
+        "username": "RealmeUser504",
+        "rating": 5,
+        "comment": "Great Realme GT 6T! 256 GB storage is perfect for my needs. 12 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.720Z",
+        "helpful": 21,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Qualcomm Snapdragon 7+ Gen 3, Octa-core",
+      "Display": "6.78″ AMOLED 120Hz",
+      "RAM": "12 GB",
+      "Storage": "256 GB",
+      "Battery": "5500 mAh",
+      "Camera": "50 MP + 8 MP",
+      "Front Camera": "32 MP",
+      "Network": "5G",
+      "Connectivity": "Wi-Fi 6, Bluetooth 5.4, USB-C",
+      "OS": "Android 14 (Realme UI 5.0)",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "162.1×75.1×8.7 mm",
+      "Resolution": "1264x2780 FHD+",
+      "Port": "USB-C",
+      "Flash": "LED",
+      "Video Recording": "4K@60fps"
+    },
+    "description": "Realme GT 6T with Qualcomm Snapdragon 7+ Gen 3, Octa-core, 6.78″ AMOLED 120Hz display, 12 GB RAM, 256 GB storage, and 5500 mAh battery. Features include 5G connectivity, 50 MP + 8 MP main camera, and Wi-Fi 6, Bluetooth 5.4, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.720Z",
+    "updatedAt": "2025-08-30T16:18:34.720Z"
+  },
+  {
+    "id": 505,
+    "name": "Realme C65",
+    "slug": "realme_c65_505",
+    "color": "starlight",
+    "os": "android",
+    "brand": "realme",
+    "old_price": 9899,
+    "price": 8999,
+    "originalPrice": 8999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 6,
+    "images": [
+      "../../assets/img/products/realme/c65/front.png",
+      "../../assets/img/products/realme/c65/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.0",
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.720Z",
+      "notes": "Realme C65 - 256 GB storage, 8 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.720Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_505_001",
+        "userId": "user_505_001",
+        "username": "RealmeUser505",
+        "rating": 4,
+        "comment": "Great Realme C65! 256 GB storage is perfect for my needs. 8 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.720Z",
+        "helpful": 13,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Helio G85, Octa-core",
+      "Display": "6.67″ AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Battery": "5000 mAh",
+      "Camera": "50 MP + 2 MP",
+      "Front Camera": "8 MP",
+      "Network": "4G",
+      "Connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "OS": "Android 14 (Realme UI 5.0)",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "164.6×75.4×7.6 mm",
+      "Resolution": "1080x2400 FHD+",
+      "Port": "USB-C",
+      "Flash": "LED",
+      "Video Recording": "1080p@30fps"
+    },
+    "description": "Realme C65 with MediaTek Helio G85, Octa-core, 6.67″ AMOLED 120Hz display, 8 GB RAM, 256 GB storage, and 5000 mAh battery. Features include 4G connectivity, 50 MP + 2 MP main camera, and Wi-Fi, Bluetooth, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.720Z",
+    "updatedAt": "2025-08-30T16:18:34.720Z"
+  },
+  {
+    "id": 506,
+    "name": "Infinix GT 30 Pro 5G",
+    "slug": "infinix_gt30pro5g_506",
+    "color": "dark",
+    "os": "android",
+    "brand": "infinix",
+    "old_price": 24199,
+    "price": 21999,
+    "originalPrice": 21999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 12,
+    "images": [
+      "../../assets/img/products/infinix/gt30pro5g/front.png",
+      "../../assets/img/products/infinix/gt30pro5g/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.1",
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.720Z",
+      "notes": "Infinix GT 30 Pro 5G - 512 GB storage, 12 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.720Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_506_001",
+        "userId": "user_506_001",
+        "username": "InfinixUser506",
+        "rating": 5,
+        "comment": "Great Infinix GT 30 Pro 5G! 512 GB storage is perfect for my needs. 12 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.720Z",
+        "helpful": 16,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Dimensity 8300 Ultra, Octa-core",
+      "Display": "6.78″ AMOLED 144Hz",
+      "RAM": "12GB",
+      "Storage": "512GB",
+      "Battery": "5500 mAh",
+      "Camera": "108 MP + 2 MP + 2 MP",
+      "Front Camera": "32 MP",
+      "Network": "5G",
+      "Connectivity": "Wi-Fi 6, Bluetooth 5.3, USB-C",
+      "OS": "Android 14 (XOS)",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "164.3×75.5×8.2 mm",
+      "Resolution": "1264x2780 1.5K AMOLED",
+      "Port": "USB-C",
+      "Flash": "Dual LED",
+      "Video Recording": "4K@60fps"
+    },
+    "description": "Infinix GT 30 Pro 5G with MediaTek Dimensity 8300 Ultra, Octa-core, 6.78″ AMOLED 144Hz display, 12 GB RAM, 512 GB storage, and 5500 mAh battery. Features include 5G connectivity, 108 MP + 2 MP + 2 MP main camera, and Wi-Fi 6, Bluetooth 5.3, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.720Z",
+    "updatedAt": "2025-08-30T16:18:34.720Z"
+  },
+  {
+    "id": 507,
+    "name": "Infinix Hot 50",
+    "slug": "infinix_hot50_507",
+    "color": "timber",
+    "os": "android",
+    "brand": "infinix",
+    "old_price": 7919,
+    "price": 7199,
+    "originalPrice": 7199,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 23,
+    "images": [
+      "../../assets/img/products/infinix/hot50/front.png",
+      "../../assets/img/products/infinix/hot50/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.3",
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.720Z",
+      "notes": "Infinix Hot 50 - 256 GB storage, 8 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.720Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_507_001",
+        "userId": "user_507_001",
+        "username": "InfinixUser507",
+        "rating": 4,
+        "comment": "Great Infinix Hot 50! 256 GB storage is perfect for my needs. 8 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.720Z",
+        "helpful": 24,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Helio G100, Octa-core",
+      "Display": "6.78″ IPS LCD 120Hz",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Battery": "5000 mAh",
+      "Camera": "50 MP + 2 MP",
+      "Front Camera": "8 MP",
+      "Network": "4G",
+      "Connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "OS": "Android 14 (XOS)",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "168.6×76.6×8.5 mm",
+      "Resolution": "1080x2460 FHD+",
+      "Port": "USB-C",
+      "Flash": "Quad LED",
+      "Video Recording": "1440p@30fps"
+    },
+    "description": "Infinix Hot 50 with MediaTek Helio G100, Octa-core, 6.78″ IPS LCD 120Hz display, 8 GB RAM, 256 GB storage, and 5000 mAh battery. Features include 4G connectivity, 50 MP + 2 MP main camera, and Wi-Fi, Bluetooth, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.720Z",
+    "updatedAt": "2025-08-30T16:18:34.720Z"
+  },
+  {
+    "id": 508,
+    "name": "Infinix Hot 50i",
+    "slug": "infinix_hot50i_508",
+    "color": "glacier",
+    "os": "android",
+    "brand": "infinix",
+    "old_price": 5988,
+    "price": 5444,
+    "originalPrice": 5444,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 6,
+    "images": [
+      "../../assets/img/products/infinix/hot50i/front.png",
+      "../../assets/img/products/infinix/hot50i/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.6",
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.721Z",
+      "notes": "Infinix Hot 50i - 128 GB storage, 6 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.721Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_508_001",
+        "userId": "user_508_001",
+        "username": "InfinixUser508",
+        "rating": 5,
+        "comment": "Great Infinix Hot 50i! 128 GB storage is perfect for my needs. 6 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.721Z",
+        "helpful": 14,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Helio G81, Octa-core",
+      "Display": "6.7″ IPS LCD",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "5000 mAh",
+      "Camera": "13 MP + QVGA",
+      "Front Camera": "8 MP",
+      "Network": "4G",
+      "Connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "OS": "Android 14 (XOS)",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "163.5×75.6×8.4 mm",
+      "Resolution": "720x1612 HD+",
+      "Port": "USB-C",
+      "Flash": "LED",
+      "Video Recording": "1080p@30fps"
+    },
+    "description": "Infinix Hot 50i with MediaTek Helio G81, Octa-core, 6.7″ IPS LCD display, 6 GB RAM, 128 GB storage, and 5000 mAh battery. Features include 4G connectivity, 13 MP + QVGA main camera, and Wi-Fi, Bluetooth, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.721Z",
+    "updatedAt": "2025-08-30T16:18:34.721Z"
+  },
+  {
+    "id": 509,
+    "name": "Infinix Smart 9",
+    "slug": "infinix_smart9_509",
+    "color": "mirror",
+    "os": "android",
+    "brand": "infinix",
+    "old_price": 6049,
+    "price": 5499,
+    "originalPrice": 5499,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 9,
+    "images": [
+      "../../assets/img/products/infinix/smart9/front.png",
+      "../../assets/img/products/infinix/smart9/back.png"
+    ],
+    "sellerId": 106,
+    "rating": "4.4",
+    "adminReview": {
+      "status": "rejected",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-08-30T16:18:34.721Z",
+      "notes": "Infinix Smart 9 - 128 GB storage, 4 GB RAM",
+      "approvalDate": "2025-08-30T16:18:34.721Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_509_001",
+        "userId": "user_509_001",
+        "username": "InfinixUser509",
+        "rating": 5,
+        "comment": "Great Infinix Smart 9! 128 GB storage is perfect for my needs. 4 GB RAM handles everything smoothly.",
+        "createdAt": "2025-08-30T16:18:34.721Z",
+        "helpful": 7,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Helio G81, Octa-core",
+      "Display": "6.77″ IPS LCD 120Hz",
+      "RAM": "4GB",
+      "Storage": "128GB",
+      "Battery": "5000 mAh",
+      "Camera": "13 MP + AI Lens",
+      "Front Camera": "8 MP",
+      "Network": "4G",
+      "Connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "OS": "Android 14 Go (XOS 14)",
+      "SIM": "Dual SIM (nano)",
+      "Dimensions": "164.2×75.7×8.3 mm",
+      "Resolution": "720x1612 HD+",
+      "Port": "USB-C",
+      "Flash": "Dual LED",
+      "Video Recording": "1080p@30fps"
+    },
+    "description": "Infinix Smart 9 with MediaTek Helio G81, Octa-core, 6.77″ IPS LCD 120Hz display, 4 GB RAM, 128 GB storage, and 5000 mAh battery. Features include 4G connectivity, 13 MP + AI Lens main camera, and Wi-Fi, Bluetooth, USB-C.",
+    "createdAt": "2025-08-30T16:18:34.721Z",
+    "updatedAt": "2025-08-30T16:18:34.721Z"
+  },
+  {
+    "id": 510,
+    "name": "Samsung Galaxy A16",
+    "slug": "samsung_galaxy_a16_510",
+    "color": "black",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 8999,
+    "price": 8199,
+    "originalPrice": 8199,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 15,
+    "images": [
+      "../../assets/img/products/samsung/a16/front.png",
+      "../../assets/img/products/samsung/a16/back.jpg"
+    ],
+    "sellerId": 107,
+    "rating": 4.2,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-01-15T10:00:00Z",
+      "notes": "Budget Samsung with good battery life",
+      "approvalDate": "2025-01-15T10:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_510_001",
+        "userId": "user_510_001",
+        "username": "SamsungUser510",
+        "rating": 4,
+        "comment": "Great budget phone with excellent battery life. Perfect for daily use.",
+        "createdAt": "2025-01-16T12:00:00Z",
+        "helpful": 8,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Helio G35",
+      "Display": "6.6-inch HD+ TFT",
+      "RAM": "4GB",
+      "Storage": "64GB",
+      "Battery": "5000mAh",
+      "Camera": "13MP + 5MP + 2MP + 2MP"
+    },
+    "description": "Samsung Galaxy A16 with MediaTek Helio G35, 6.6-inch HD+ display, 4GB RAM, 64GB storage, and 5000mAh battery.",
+    "createdAt": "2025-01-15T10:00:00Z",
+    "updatedAt": "2025-01-15T10:00:00Z"
+  },
+  {
+    "id": 511,
+    "name": "Samsung Galaxy A36 5G",
+    "slug": "samsung_galaxy_a36_5g_511",
+    "color": "white",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 12999,
+    "price": 11999,
+    "originalPrice": 11999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 12,
+    "images": [
+      "../../assets/img/products/samsung/a365g/front.png",
+      "../../assets/img/products/samsung/a365g/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.4,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin002",
+      "reviewedAt": "2025-01-16T11:00:00Z",
+      "notes": "5G capable mid-range Samsung",
+      "approvalDate": "2025-01-16T11:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_511_001",
+        "userId": "user_511_001",
+        "username": "SamsungUser511",
+        "rating": 4,
+        "comment": "5G connectivity is great and the camera quality is impressive for the price.",
+        "createdAt": "2025-01-17T14:00:00Z",
+        "helpful": 12,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Dimensity 700",
+      "Display": "6.6-inch FHD+ Super AMOLED",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "48MP + 8MP + 5MP + 2MP"
+    },
+    "description": "Samsung Galaxy A36 5G with MediaTek Dimensity 700, 6.6-inch FHD+ Super AMOLED display, 6GB RAM, 128GB storage, and 5G connectivity.",
+    "createdAt": "2025-01-16T11:00:00Z",
+    "updatedAt": "2025-01-16T11:00:00Z"
+  },
+  {
+    "id": 512,
+    "name": "Samsung Galaxy A56",
+    "slug": "samsung_galaxy_a56_512",
+    "color": "blue",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 15999,
+    "price": 14999,
+    "originalPrice": 14999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 10,
+    "images": [
+      "../../assets/img/products/samsung/a56/front.png",
+      "../../assets/img/products/samsung/a56/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.5,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-01-17T12:00:00Z",
+      "notes": "Premium A-series with excellent camera",
+      "approvalDate": "2025-01-17T12:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_512_001",
+        "userId": "user_512_001",
+        "username": "SamsungUser512",
+        "rating": 5,
+        "comment": "Amazing camera quality and the design is premium. Great value for money!",
+        "createdAt": "2025-01-18T16:00:00Z",
+        "helpful": 15,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Exynos 1480",
+      "Display": "6.6-inch FHD+ Super AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP + 12MP + 5MP"
+    },
+    "description": "Samsung Galaxy A56 with Exynos 1480, 6.6-inch FHD+ Super AMOLED 120Hz display, 8GB RAM, 256GB storage, and advanced camera system.",
+    "createdAt": "2025-01-17T12:00:00Z",
+    "updatedAt": "2025-01-17T12:00:00Z"
+  },
+  {
+    "id": 513,
+    "name": "Samsung Galaxy S25",
+    "slug": "samsung_galaxy_s25_513",
+    "color": "phantom_black",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 89999,
+    "price": 84999,
+    "originalPrice": 84999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 8,
+    "images": [
+      "../../assets/img/products/samsung/s25/front.png",
+      "../../assets/img/products/samsung/s25/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.8,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-01-18T13:00:00Z",
+      "notes": "Latest flagship with AI features",
+      "approvalDate": "2025-01-18T13:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_513_001",
+        "userId": "user_513_001",
+        "username": "SamsungUser513",
+        "rating": 5,
+        "comment": "The AI features are incredible! Camera quality is outstanding and performance is top-notch.",
+        "createdAt": "2025-01-19T18:00:00Z",
+        "helpful": 25,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Exynos 2500",
+      "Display": "6.2-inch Dynamic AMOLED 2X 120Hz",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Battery": "4000mAh",
+      "Camera": "50MP + 12MP + 10MP"
+    },
+    "description": "Samsung Galaxy S25 with Exynos 2500, 6.2-inch Dynamic AMOLED 2X 120Hz display, 8GB RAM, 256GB storage, and advanced AI camera system.",
+    "createdAt": "2025-01-18T13:00:00Z",
+    "updatedAt": "2025-01-18T13:00:00Z"
+  },
+  {
+    "id": 514,
+    "name": "Samsung Galaxy S25+",
+    "slug": "samsung_galaxy_s25_plus_514",
+    "color": "phantom_black",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 99999,
+    "price": 94999,
+    "originalPrice": 94999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 6,
+    "images": [
+      "../../assets/img/products/samsung/s25+/front.png",
+      "../../assets/img/products/samsung/s25+/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-01-19T14:00:00Z",
+      "notes": "Premium flagship with larger display",
+      "approvalDate": "2025-01-19T14:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_514_001",
+        "userId": "user_514_001",
+        "username": "SamsungUser514",
+        "rating": 5,
+        "comment": "Perfect size and the larger battery is amazing. AI features work flawlessly!",
+        "createdAt": "2025-01-20T19:00:00Z",
+        "helpful": 28,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Exynos 2500",
+      "Display": "6.7-inch Dynamic AMOLED 2X 120Hz",
+      "RAM": "12GB",
+      "Storage": "512GB",
+      "Battery": "4900mAh",
+      "Camera": "50MP + 12MP + 10MP"
+    },
+    "description": "Samsung Galaxy S25+ with Exynos 2500, 6.7-inch Dynamic AMOLED 2X 120Hz display, 12GB RAM, 512GB storage, and enhanced AI features.",
+    "createdAt": "2025-01-19T14:00:00Z",
+    "updatedAt": "2025-01-19T14:00:00Z"
+  },
+  {
+    "id": 515,
+    "name": "Samsung Galaxy S25 Edge",
+    "slug": "samsung_galaxy_s25_edge_515",
+    "color": "phantom_black",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 109999,
+    "price": 104999,
+    "originalPrice": 104999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 5,
+    "images": ["../../assets/img/products/samsung/s25edge/front.png",
+"../../assets/img/products/samsung/s25edge/back.png"],
+    "sellerId": 107,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-01-20T15:00:00Z",
+      "notes": "Ultimate flagship with curved display",
+      "approvalDate": "2025-01-20T15:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_515_001",
+        "userId": "user_515_001",
+        "username": "SamsungUser515",
+        "rating": 5,
+        "comment": "The curved display is stunning and the S Pen integration is perfect. Best phone I've ever owned!",
+        "createdAt": "2025-01-21T20:00:00Z",
+        "helpful": 30,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Exynos 2500",
+      "Display": "6.8-inch Dynamic AMOLED 2X 120Hz Curved",
+      "RAM": "12GB",
+      "Storage": "512GB",
+      "Battery": "5000mAh",
+      "Camera": "200MP + 12MP + 50MP + 10MP"
+    },
+    "description": "Samsung Galaxy S25 Edge with Exynos 2500, 6.8-inch Dynamic AMOLED 2X 120Hz curved display, 12GB RAM, 512GB storage, and S Pen support.",
+    "createdAt": "2025-01-20T15:00:00Z",
+    "updatedAt": "2025-01-20T15:00:00Z"
+  },
+  {
+    "id": 516,
+    "name": "Samsung Galaxy S25 FE",
+    "slug": "samsung_galaxy_s25_fe_516",
+    "color": "mint",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 69999,
+    "price": 64999,
+    "originalPrice": 64999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 12,
+    "images": ["../../assets/img/products/samsung/s25fe/front.png",
+    "../../assets/img/products/samsung/s25fe/back.png"
+  ],
+    "sellerId": 107,
+    "rating": 4.6,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin002",
+      "reviewedAt": "2025-01-21T16:00:00Z",
+      "notes": "Fan Edition with flagship features",
+      "approvalDate": "2025-01-21T16:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_516_001",
+        "userId": "user_516_001",
+        "username": "SamsungUser516",
+        "rating": 4,
+        "comment": "Great value for money! Has most flagship features at a more affordable price.",
+        "createdAt": "2025-01-22T21:00:00Z",
+        "helpful": 18,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Exynos 2400",
+      "Display": "6.4-inch Dynamic AMOLED 2X 120Hz",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Battery": "4500mAh",
+      "Camera": "50MP + 12MP + 8MP"
+    },
+    "description": "Samsung Galaxy S25 FE with Exynos 2400, 6.4-inch Dynamic AMOLED 2X 120Hz display, 8GB RAM, 256GB storage, and flagship camera system.",
+    "createdAt": "2025-01-21T16:00:00Z",
+    "updatedAt": "2025-01-21T16:00:00Z"
+  },
+  {
+    "id": 517,
+    "name": "Samsung Galaxy S24 Ultra",
+    "slug": "samsung_galaxy_s24_ultra_517",
+    "color": "titanium_black",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 129999,
+    "price": 119999,
+    "originalPrice": 119999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 4,
+    "images": [
+      "../../assets/img/products/samsung/samsung_s24ultra/front.png",
+      "../../assets/img/products/samsung/samsung_s24ultra/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-01-22T17:00:00Z",
+      "notes": "Previous generation flagship with titanium build",
+      "approvalDate": "2025-01-22T17:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_517_001",
+        "userId": "user_517_001",
+        "username": "SamsungUser517",
+        "rating": 5,
+        "comment": "Titanium build feels premium and the S Pen is incredibly useful. Camera quality is exceptional!",
+        "createdAt": "2025-01-23T22:00:00Z",
+        "helpful": 32,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 3",
+      "Display": "6.8-inch Dynamic AMOLED 2X 120Hz",
+      "RAM": "12GB",
+      "Storage": "512GB",
+      "Battery": "5000mAh",
+      "Camera": "200MP + 12MP + 50MP + 10MP"
+    },
+    "description": "Samsung Galaxy S24 Ultra with Snapdragon 8 Gen 3, 6.8-inch Dynamic AMOLED 2X 120Hz display, 12GB RAM, 512GB storage, and titanium build.",
+    "createdAt": "2025-01-22T17:00:00Z",
+    "updatedAt": "2025-01-22T17:00:00Z"
+  },
+  {
+    "id": 518,
+    "name": "Samsung Galaxy Z Flip",
+    "slug": "samsung_galaxy_z_flip_518",
+    "color": "mint",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 99999,
+    "price": 89999,
+    "originalPrice": 89999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 3,
+    "images": ["../../assets/img/products/samsung/zflip/front.png",
+    "../../assets/img/products/samsung/zflip/back.png"
+  ],
+    "sellerId": 107,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-01-23T18:00:00Z",
+      "notes": "Foldable flip phone with compact design",
+      "approvalDate": "2025-01-23T18:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_518_001",
+        "userId": "user_518_001",
+        "username": "SamsungUser518",
+        "rating": 4,
+        "comment": "The foldable design is amazing! Perfect size when folded and great screen when open.",
+        "createdAt": "2025-01-24T23:00:00Z",
+        "helpful": 20,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 3",
+      "Display": "6.7-inch Dynamic AMOLED 2X 120Hz (Folded: 3.4-inch)",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Battery": "3700mAh",
+      "Camera": "12MP + 12MP"
+    },
+    "description": "Samsung Galaxy Z Flip with Snapdragon 8 Gen 3, 6.7-inch Dynamic AMOLED 2X 120Hz foldable display, 8GB RAM, 256GB storage, and compact design.",
+    "createdAt": "2025-01-23T18:00:00Z",
+    "updatedAt": "2025-01-23T18:00:00Z"
+  },
+  {
+    "id": 519,
+    "name": "Samsung Galaxy Z Fold 7",
+    "slug": "samsung_galaxy_z_fold_7_519",
+    "color": "phantom_black",
+    "os": "android",
+    "brand": "samsung",
+    "old_price": 179999,
+    "price": 169999,
+    "originalPrice": 169999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 2,
+    "images": [
+      "../../assets/img/products/samsung/zfold7/front.png",
+      "../../assets/img/products/samsung/zfold7/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.9,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-01-24T19:00:00Z",
+      "notes": "Latest foldable with tablet-like experience",
+      "approvalDate": "2025-01-24T19:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_519_001",
+        "userId": "user_519_001",
+        "username": "SamsungUser519",
+        "rating": 5,
+        "comment": "The large foldable screen is incredible! Perfect for productivity and entertainment. S Pen support is a bonus!",
+        "createdAt": "2025-01-25T00:00:00Z",
+        "helpful": 35,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 3",
+      "Display": "7.6-inch Dynamic AMOLED 2X 120Hz (Cover: 6.3-inch)",
+      "RAM": "16GB",
+      "Storage": "1TB",
+      "Battery": "4400mAh",
+      "Camera": "50MP + 12MP + 10MP"
+    },
+    "description": "Samsung Galaxy Z Fold 7 with Snapdragon 8 Gen 3, 7.6-inch Dynamic AMOLED 2X 120Hz foldable display, 16GB RAM, 1TB storage, and S Pen support.",
+    "createdAt": "2025-01-24T19:00:00Z",
+    "updatedAt": "2025-01-24T19:00:00Z"
+  },
+  {
+    "id": 520,
+    "name": "OnePlus 11 5G",
+    "slug": "oneplus_11_5g_520",
+    "color": "titan_black",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 69999,
+    "price": 64999,
+    "originalPrice": 64999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 8,
+    "images": [
+      "../../assets/img/products/oneplus/OnePlus115G/front.png",
+      "../../assets/img/products/oneplus/OnePlus115G/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.7,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-01-25T10:00:00Z",
+      "notes": "Flagship OnePlus with Hasselblad camera",
+      "approvalDate": "2025-01-25T10:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_520_001",
+        "userId": "user_520_001",
+        "username": "OnePlusUser520",
+        "rating": 5,
+        "comment": "Incredible performance and the Hasselblad camera is amazing! OxygenOS is smooth as always.",
+        "createdAt": "2025-01-26T12:00:00Z",
+        "helpful": 22,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 2",
+      "Display": "6.7-inch LTPO3 AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP + 48MP + 32MP"
+    },
+    "description": "OnePlus 11 5G with Snapdragon 8 Gen 2, 6.7-inch LTPO3 AMOLED 120Hz display, 8GB RAM, 128GB storage, and Hasselblad camera system.",
+    "createdAt": "2025-01-25T10:00:00Z",
+    "updatedAt": "2025-01-25T10:00:00Z"
+  },
+  {
+    "id": 521,
+    "name": "OnePlus 11R",
+    "slug": "oneplus_11r_521",
+    "color": "galactic_silver",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 54999,
+    "price": 49999,
+    "originalPrice": 49999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 10,
+    "images": [
+      "../../assets/img/products/oneplus/OnePlus11R/front.png",
+      "../../assets/img/products/oneplus/OnePlus11R/back.png"
+    ],
+    "sellerId": 107,
+    "rating": 4.6,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin002",
+      "reviewedAt": "2025-01-26T11:00:00Z",
+      "notes": "Performance-focused OnePlus model",
+      "approvalDate": "2025-01-26T11:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_521_001",
+        "userId": "user_521_001",
+        "username": "OnePlusUser521",
+        "rating": 4,
+        "comment": "Great performance for gaming and the 100W charging is incredibly fast!",
+        "createdAt": "2025-01-27T14:00:00Z",
+        "helpful": 18,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8+ Gen 1",
+      "Display": "6.74-inch AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP + 8MP + 2MP"
+    },
+    "description": "OnePlus 11R with Snapdragon 8+ Gen 1, 6.74-inch AMOLED 120Hz display, 8GB RAM, 128GB storage, and 100W fast charging.",
+    "createdAt": "2025-01-26T11:00:00Z",
+    "updatedAt": "2025-01-26T11:00:00Z"
+  },
+  {
+    "id": 522,
+    "name": "OnePlus 12",
+    "slug": "oneplus_12_522",
+    "color": "flowing_emerald",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 79999,
+    "price": 74999,
+    "originalPrice": 74999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 6,
+    "images": [
+      "../../assets/img/products/oneplus/OnePlus12/front.png",
+      "../../assets/img/products/oneplus/OnePlus12/back.jpg"
+    ],
+    "sellerId": 107,
+    "rating": 4.8,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-01-27T12:00:00Z",
+      "notes": "Latest flagship with improved camera system",
+      "approvalDate": "2025-01-27T12:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_522_001",
+        "userId": "user_522_001",
+        "username": "OnePlusUser522",
+        "rating": 5,
+        "comment": "The camera improvements are incredible! Periscope zoom is a game-changer.",
+        "createdAt": "2025-01-28T16:00:00Z",
+        "helpful": 25,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 3",
+      "Display": "6.82-inch LTPO AMOLED 120Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "5400mAh",
+      "Camera": "50MP + 48MP + 64MP"
+    },
+    "description": "OnePlus 12 with Snapdragon 8 Gen 3, 6.82-inch LTPO AMOLED 120Hz display, 12GB RAM, 256GB storage, and advanced camera system.",
+    "createdAt": "2025-01-27T12:00:00Z",
+    "updatedAt": "2025-01-27T12:00:00Z"
+  },
+  {
+    "id": 523,
+    "name": "OnePlus 12R",
+    "slug": "oneplus_12r_523",
+    "color": "cool_blue",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 59999,
+    "price": 54999,
+    "originalPrice": 54999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 9,
+    "images": ["../../assets/img/products/oneplus/OnePlus12R/front.jpg"],
+    "sellerId": 107,
+    "rating": 4.5,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-01-28T13:00:00Z",
+      "notes": "Performance-focused with flagship features",
+      "approvalDate": "2025-01-28T13:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_523_001",
+        "userId": "user_523_001",
+        "username": "OnePlusUser523",
+        "rating": 4,
+        "comment": "Great value for money! Has most flagship features at a better price point.",
+        "createdAt": "2025-01-29T18:00:00Z",
+        "helpful": 16,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 2",
+      "Display": "6.78-inch AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5500mAh",
+      "Camera": "50MP + 8MP + 2MP"
+    },
+    "description": "OnePlus 12R with Snapdragon 8 Gen 2, 6.78-inch AMOLED 120Hz display, 8GB RAM, 128GB storage, and 100W fast charging.",
+    "createdAt": "2025-01-28T13:00:00Z",
+    "updatedAt": "2025-01-28T13:00:00Z"
+  },
+  {
+    "id": 524,
+    "name": "OnePlus Ace 2V",
+    "slug": "oneplus_ace_2v_524",
+    "color": "black_silk",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 29999,
+    "price": 26999,
+    "originalPrice": 26999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 15,
+    "images": [
+      "../../assets/img/products/oneplus/OnePlusAce2V/front.png",
+      "../../assets/img/products/oneplus/OnePlusAce2V/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.4,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-01-29T14:00:00Z",
+      "notes": "Budget-friendly with good performance",
+      "approvalDate": "2025-01-29T14:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_524_001",
+        "userId": "user_524_001",
+        "username": "OnePlusUser524",
+        "rating": 4,
+        "comment": "Amazing value! Performance is great for the price and the design is premium.",
+        "createdAt": "2025-01-30T20:00:00Z",
+        "helpful": 12,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Dimensity 9000",
+      "Display": "6.74-inch AMOLED 120Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "5000mAh",
+      "Camera": "64MP + 8MP + 2MP"
+    },
+    "description": "OnePlus Ace 2V with MediaTek Dimensity 9000, 6.74-inch AMOLED 120Hz display, 12GB RAM, 256GB storage, and 80W fast charging.",
+    "createdAt": "2025-01-29T14:00:00Z",
+    "updatedAt": "2025-01-29T14:00:00Z"
+  },
+  {
+    "id": 525,
+    "name": "OnePlus Nord 2T",
+    "slug": "oneplus_nord_2t_525",
+    "color": "jade_fog",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 24999,
+    "price": 22999,
+    "originalPrice": 22999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 12,
+    "images": ["../../assets/img/products/oneplus/OnePlusNord2T/front.png"],
+    "sellerId": 105,
+    "rating": 4.3,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-01-30T15:00:00Z",
+      "notes": "Popular Nord series model",
+      "approvalDate": "2025-01-30T15:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_525_001",
+        "userId": "user_525_001",
+        "username": "OnePlusUser525",
+        "rating": 4,
+        "comment": "Great camera for the price and OxygenOS is smooth. Perfect daily driver.",
+        "createdAt": "2025-01-31T22:00:00Z",
+        "helpful": 10,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Dimensity 1300",
+      "Display": "6.43-inch AMOLED 90Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "4500mAh",
+      "Camera": "50MP + 8MP + 2MP"
+    },
+    "description": "OnePlus Nord 2T with MediaTek Dimensity 1300, 6.43-inch AMOLED 90Hz display, 8GB RAM, 128GB storage, and 80W fast charging.",
+    "createdAt": "2025-01-30T15:00:00Z",
+    "updatedAt": "2025-01-30T15:00:00Z"
+  },
+  {
+    "id": 526,
+    "name": "OnePlus Nord 3",
+    "slug": "oneplus_nord_3_526",
+    "color": "misty_green",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 29999,
+    "price": 27999,
+    "originalPrice": 27999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 11,
+    "images": ["../../assets/img/products/oneplus/OnePlusNord3/front.png"],
+    "sellerId": 105,
+    "rating": 4.5,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin002",
+      "reviewedAt": "2025-01-31T16:00:00Z",
+      "notes": "Improved Nord with better performance",
+      "approvalDate": "2025-01-31T16:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_526_001",
+        "userId": "user_526_001",
+        "username": "OnePlusUser526",
+        "rating": 4,
+        "comment": "Performance is much better than previous Nord models. Camera quality is impressive!",
+        "createdAt": "2025-02-01T00:00:00Z",
+        "helpful": 14,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "MediaTek Dimensity 9000",
+      "Display": "6.74-inch AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "50MP + 8MP + 2MP"
+    },
+    "description": "OnePlus Nord 3 with MediaTek Dimensity 9000, 6.74-inch AMOLED 120Hz display, 8GB RAM, 128GB storage, and 80W fast charging.",
+    "createdAt": "2025-01-31T16:00:00Z",
+    "updatedAt": "2025-01-31T16:00:00Z"
+  },
+  {
+    "id": 527,
+    "name": "OnePlus Nord CE 3",
+    "slug": "oneplus_nord_ce_3_527",
+    "color": "aqua_surge",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 22999,
+    "price": 20999,
+    "originalPrice": 20999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 14,
+    "images": [
+      "../../assets/img/products/oneplus/OnePlusNordCE3/front.png",
+      "../../assets/img/products/oneplus/OnePlusNordCE3/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.2,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin003",
+      "reviewedAt": "2025-02-01T17:00:00Z",
+      "notes": "Core Edition with essential features",
+      "approvalDate": "2025-02-01T17:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_527_001",
+        "userId": "user_527_001",
+        "username": "OnePlusUser527",
+        "rating": 4,
+        "comment": "Good performance for the price. Battery life is excellent!",
+        "createdAt": "2025-02-02T02:00:00Z",
+        "helpful": 8,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 782G",
+      "Display": "6.7-inch AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "108MP + 2MP + 2MP"
+    },
+    "description": "OnePlus Nord CE 3 with Snapdragon 782G, 6.7-inch AMOLED 120Hz display, 8GB RAM, 128GB storage, and 67W fast charging.",
+    "createdAt": "2025-02-01T17:00:00Z",
+    "updatedAt": "2025-02-01T17:00:00Z"
+  },
+  {
+    "id": 528,
+    "name": "OnePlus Nord CE 3 Lite",
+    "slug": "oneplus_nord_ce_3_lite_528",
+    "color": "pastel_lime",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 18999,
+    "price": 16999,
+    "originalPrice": 16999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 16,
+    "images": [
+      "../../assets/img/products/oneplus/OnePlusNordCE3Lite/front.png",
+      "../../assets/img/products/oneplus/OnePlusNordCE3Lite/back.png"
+    ],
+    "sellerId": 105,
+    "rating": 4.1,
+    "adminReview": {
+      "status": "pending",
+      "reviewedBy": "admin004",
+      "reviewedAt": "2025-02-02T18:00:00Z",
+      "notes": "Budget-friendly Nord variant",
+      "approvalDate": "2025-02-02T18:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_528_001",
+        "userId": "user_528_001",
+        "username": "OnePlusUser528",
+        "rating": 4,
+        "comment": "Great value for money! Good performance and decent camera for the price.",
+        "createdAt": "2025-02-03T04:00:00Z",
+        "helpful": 6,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 695",
+      "Display": "6.72-inch IPS LCD 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "108MP + 2MP + 2MP"
+    },
+    "description": "OnePlus Nord CE 3 Lite with Snapdragon 695, 6.72-inch IPS LCD 120Hz display, 8GB RAM, 128GB storage, and 67W fast charging.",
+    "createdAt": "2025-02-02T18:00:00Z",
+    "updatedAt": "2025-02-02T18:00:00Z"
+  },
+  {
+    "id": 529,
+    "name": "OnePlus Nord N30",
+    "slug": "oneplus_nord_n30_529",
+    "color": "chromatic_gray",
+    "os": "android",
+    "brand": "oneplus",
+    "old_price": 21999,
+    "price": 19999,
+    "originalPrice": 19999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 13,
+    "images": ["../../assets/img/products/oneplus/OnePlusNordN30/front.png"],
+    "sellerId": 105,
+    "rating": 4.3,
+    "adminReview": {
+      "status": "pending  ",
+      "reviewedBy": "admin005",
+      "reviewedAt": "2025-02-03T19:00:00Z",
+      "notes": "Nord N series with large display",
+      "approvalDate": "2025-02-03T19:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_529_001",
+        "userId": "user_529_001",
+        "username": "OnePlusUser529",
+        "rating": 4,
+        "comment": "Large display is perfect for media consumption. Battery life is impressive!",
+        "createdAt": "2025-02-04T06:00:00Z",
+        "helpful": 9,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Snapdragon 695",
+      "Display": "6.72-inch AMOLED 120Hz",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Battery": "5000mAh",
+      "Camera": "108MP + 2MP + 2MP"
+    },
+    "description": "OnePlus Nord N30 with Snapdragon 695, 6.72-inch AMOLED 120Hz display, 8GB RAM, 128GB storage, and 67W fast charging.",
+    "createdAt": "2025-02-03T19:00:00Z",
+    "updatedAt": "2025-02-03T19:00:00Z"
+  },
+  {
+    "id": 530,
+    "name": "Google Pixel 8 Pro",
+    "slug": "google_pixel_8_pro_530",
+    "color": "obsidian",
+    "os": "android",
+    "brand": "pixel",
+    "old_price": 89999,
+    "price": 84999,
+    "originalPrice": 84999,
+    "salePercentage": 0,
+    "category": "Smartphones",
+    "stock": 5,
+    "images": [
+      "../../assets/img/products/pixel8pro/front.png",
+      "../../assets/img/products/pixel8pro/back.png"
+    ],
+    "sellerId": 106,
+    "rating": 4.8,
+    "adminReview": {
+      "status": "approved",
+      "reviewedBy": "admin001",
+      "reviewedAt": "2025-02-04T20:00:00Z",
+      "notes": "Google's flagship with AI camera features",
+      "approvalDate": "2025-02-04T20:00:00Z"
+    },
+    "userComments": [
+      {
+        "id": "comment_530_001",
+        "userId": "user_530_001",
+        "username": "PixelUser530",
+        "rating": 5,
+        "comment": "The AI camera features are incredible! Magic Eraser and Best Take are game-changers. Pure Android experience is smooth.",
+        "createdAt": "2025-02-05T08:00:00Z",
+        "helpful": 28,
+        "verified": true
+      }
+    ],
+    "specifications": {
+      "Processor": "Google Tensor G3",
+      "Display": "6.7-inch LTPO OLED 120Hz",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Battery": "4950mAh",
+      "Camera": "50MP + 48MP + 48MP"
+    },
+    "description": "Google Pixel 8 Pro with Google Tensor G3, 6.7-inch LTPO OLED 120Hz display, 12GB RAM, 256GB storage, and advanced AI camera system.",
+    "createdAt": "2025-02-04T20:00:00Z",
+    "updatedAt": "2025-02-04T20:00:00Z"
+  }
+]
