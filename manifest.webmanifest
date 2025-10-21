@@ -1,0 +1,24 @@
+{
+  "name": "Xpress",
+  "short_name": "Xpress",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "theme_color": "black",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/icons/logo_white_black_back-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/logo_white_black_back-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "Out Site is an online shopping web app with cart, products, profile, and seller dashboard.",
+  "scope": "./",
+  "id": "outsite-app"
+}

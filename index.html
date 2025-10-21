@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
   <link href="./src/css/global.css" rel="stylesheet">
 
-
+<link rel="manifest" href="./manifest.webmanifest">
 </head>
 
 <body>
@@ -312,6 +312,14 @@
   <script defer src="./src/js/shared.js"></script>
   <script defer src="./src/js/main.js"></script>
   <script defer src="./src/js/home_page.js"></script>
+<script>
+  window.addEventListener("load", () => {
+    navigator.serviceWorker
+      .register("./sw.js")
+      .then(() => console.log("reg"))
+      .catch((err) => console.error("Service Worker registration failed:", err));
+  });
+</script>
 </body>
 
 </html>
